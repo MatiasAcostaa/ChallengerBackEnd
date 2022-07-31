@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=24079124_002D4d5b_002D42e4_002Da9e4_002D72decb0b9bd1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAll_SiExistenGeneros_RetornaTodosLosGeneros" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C826C390-E883-4D80-AE1C-DDE81A757D6C::net6.0::UnitTest.GenresServiceTest.GetAll_SiExistenGeneros_RetornaTodosLosGeneros&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C826C390-E883-4D80-AE1C-DDE81A757D6C::net6.0::UnitTest.GenresServiceTest.GetById_SiNoExisteUnGenero_RetornaNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C826C390-E883-4D80-AE1C-DDE81A757D6C::net6.0::UnitTest.GenresServiceTest.Create_ConGeneroParaCrear_RetornaGeneroCreado&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C826C390-E883-4D80-AE1C-DDE81A757D6C::net6.0::UnitTest.GenresServiceTest.Update_ConGenerosExistentes_NoHayDevoluciones&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C826C390-E883-4D80-AE1C-DDE81A757D6C::net6.0::UnitTest.GenresServiceTest.Update_ConGeneroInexistente_NotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C826C390-E883-4D80-AE1C-DDE81A757D6C::net6.0::UnitTest.GenresServiceTest.Delete_ConGenerosExistente_NoReturns&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C826C390-E883-4D80-AE1C-DDE81A757D6C::net6.0::UnitTest.GenresServiceTest.Delete_ConGenerosInexistente_NotFound&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
